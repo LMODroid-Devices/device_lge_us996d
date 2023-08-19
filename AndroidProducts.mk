@@ -14,8 +14,8 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_us996d.mk
+    $(LOCAL_DIR)/lmodroid_us996d.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_us996d-userdebug \
-    lineage_us996d-eng
+    lmodroid_us996d-userdebug \
+    lmodroid_us996d-eng
